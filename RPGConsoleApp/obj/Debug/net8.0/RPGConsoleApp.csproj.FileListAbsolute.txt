@@ -1,0 +1,15 @@
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\bin\Debug\net8.0\RPGConsoleApp.exe
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\bin\Debug\net8.0\RPGConsoleApp.deps.json
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\bin\Debug\net8.0\RPGConsoleApp.runtimeconfig.json
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\bin\Debug\net8.0\RPGConsoleApp.dll
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\bin\Debug\net8.0\RPGConsoleApp.pdb
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.AssemblyInfo.cs
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.sourcelink.json
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.dll
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\refint\RPGConsoleApp.dll
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.pdb
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\RPGConsoleApp.genruntimeconfig.cache
+C:\Users\Luxio Chaosyn\Documents\GitHub\jsonxmlrpg\RPGConsoleApp\obj\Debug\net8.0\ref\RPGConsoleApp.dll
