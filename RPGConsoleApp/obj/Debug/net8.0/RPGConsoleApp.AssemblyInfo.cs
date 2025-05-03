@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a0e0e44fe79996aa24328bbbb216dfa5fa329d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7b9a16555e2990c1cbc2e6120585ea6dcede13")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPGConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
